@@ -1,0 +1,12 @@
+C:\dev\cep-conference\csharp\CepConference\bin\Debug\net8.0\CepConference.deps.json
+C:\dev\cep-conference\csharp\CepConference\bin\Debug\net8.0\CepConference.dll
+C:\dev\cep-conference\csharp\CepConference\bin\Debug\net8.0\CepConference.pdb
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\CepConference.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\CepConference.AssemblyInfoInputs.cache
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\CepConference.AssemblyInfo.cs
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\CepConference.csproj.CoreCompileInputs.cache
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\CepConference.sourcelink.json
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\CepConference.dll
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\refint\CepConference.dll
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\CepConference.pdb
+C:\dev\cep-conference\csharp\CepConference\obj\Debug\net8.0\ref\CepConference.dll
